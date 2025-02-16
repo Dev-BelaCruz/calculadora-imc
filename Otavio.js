@@ -23,3 +23,5 @@ birth = 2024 - age;
 console.log(`${firstname} ${secondname} tem ${age} anos, pesa ${weight} kg`);
 console.log(`Ele tem ${height}m de altura e seu IMC é de ${imc.toFixed(2)}`);
 console.log(`${firstname} nasceu em ${birth}`);
+
+/* Testando o imc com um exercicio */
