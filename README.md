@@ -9,7 +9,7 @@
 
 ## Tecnologias 💻
 
-- Visual Code 
+- Visual Studio Code 
 - JavaScript
 - HTML
 - CSS
